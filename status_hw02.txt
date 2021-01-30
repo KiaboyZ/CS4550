@@ -1,0 +1,52 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Kia Zafar
+
+2. What hostname did you deploy to?
+kia.town
+
+3. What's the link to your repository on github with your code?
+https://github.com/KiaboyZ/CS4550-hw02
+
+4. How many HTML / CSS tutorial exercises did you do?
+Maybe 20 or so total?
+
+5. How comfortable do you feel with HTML and CSS now?
+Maybe a 5 out of 10. I can figure it out but it takes a lot of troubleshooting/googling.
+I need to do more exercises.
+
+6. How many JS tutorial exercises did you do?
+I think around 5 to 10. I mostly went to the exercises when I had a specific problem.
+
+7. How comfortable do you feel with JS now?
+6 or 7 out of 10. It isn't all that different from some of the languages I already know.
+I just need to nail the specifics and syntax down mostly.
+
+8. Do all of your HTML pages pass the W3C HTML validator?
+(https://validator.w3.org/)
+They all had a warning to add a lang attribute and an error that character encoding had
+not been declared. I have now fixed this in each file and they all pass.
+
+9. Which parts of this assignment did you have trouble with, if any?
+I had trouble with all of the assignment. At first with forgetting stuff from last week
+and slowly realizing that I followed the config file instructions incorrectly. After
+fixing that, I had trouble with getting the html file to recognize the css file. Once
+I fixed that, I had trouble with the javascript portion of the assignment. I watched some
+tutorials that gave me an idea of some concepts that I could mix with my own ideas, but
+I wasn't really implementing them correctly. Lots of syntax issues, unnessecary parts,
+and incorrect data referencing. This took me a good while, but I started over and payed
+more attention when I was applying my code. I was able to get a working product in the end.
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
