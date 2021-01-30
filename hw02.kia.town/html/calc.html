@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>calc</title>
+		<link href="../css/calc.css?v=version7" rel="stylesheet">
+		<script src="../js/calc.js" defer></script>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<h1>calc</h1>
+		
+		<table>
+			<colgroup span="4"></colgroup>
+			<tr>
+				<th id="display" colspan="4" scope="colgroup">_</th>
+			</tr>
+			<tr>
+				<td id="7" class="num"><button>7</button></td>
+				<td id="8" class="num"><button>8</button></td>
+				<td id="9" class="num"><button>9</button></td>
+				<td id="plusEq" class="opr"><button>+=</button></td>
+			</tr>
+			<tr>
+				<td id="4" class="num"><button>4</button></td>
+				<td id="5" class="num"><button>5</button></td>
+				<td id="6" class="num"><button>6</button></td>
+				<td id="minus" class="opr"><button>-</button></td>
+			</tr>
+			<tr>
+				<td id="1" class="num"><button>1</button></td>
+				<td id="2" class="num"><button>2</button></td>
+				<td id="3" class="num"><button>3</button></td>
+				<td id="mult" class="opr"><button>x</button></td>
+			</tr>
+			<tr>
+				<td id="clear" class="opr"><button>C</button></td>
+				<td id="0" class="num"><button>0</button></td>
+				<td id="decimal" class="num"><button>.</button></td>
+				<td id="divide" class="opr"><button>/</button></td>
+			</tr>
+		</table>
+		<ul>
+			<li>This calculator follows the input order, not PEMDAS.</li>
+			<li>If performing a string of operations, the += operator has
+				<br>to be clicked twice so that the string is not interrupted.
+				<br>All other operators can be clicked once in this case.</li>
+		</ul>
+	</body>
+</html>

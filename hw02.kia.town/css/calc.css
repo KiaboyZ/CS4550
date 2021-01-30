@@ -1,0 +1,32 @@
+button {
+	width: 30px;
+	text-align: center;
+	padding: 5;
+	font-size: 15px;
+	border-radius: 0px;
+}
+
+table, td, th {
+	border-collapse: collapse;
+	padding: 5px;
+}
+
+td {
+	text-align: center;
+	width: 30px;
+}
+
+table {
+	border: 5px solid black;
+}
+
+th {
+	border: 5px solid black;
+	text-align: right;
+	height: 25px;
+	max-width: 150px;
+	font-family: "Lucida Console";
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
