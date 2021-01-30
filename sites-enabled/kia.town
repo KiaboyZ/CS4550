@@ -1,0 +1,17 @@
+server {
+        listen 80;
+        listen [::]:80;
+
+        root /home/kia/www/kia.town;
+
+        index index.html;
+
+        server_name kia.town www.kia.town;
+
+        location / {
+                # First attempt to serve request as file, then
+                # as directory, then fall back to displaying a 404.
+                try_files $uri $uri/ =404;
+        }
+}
+
